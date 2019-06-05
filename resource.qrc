@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>picture/log1.bmp</file>
+        <file>picture/QQ截图20170708141021.png</file>
+        <file>picture/QQ截图20170708141315.png</file>
+        <file>picture/4f44b6e74dd184e68701c9cbed35b71e.jpg</file>
+        <file>picture/42389613db07e94c3b4dd5387f31947b.jpg</file>
+        <file>picture/031df2ab1ba7602f24cd5f292939e2b3.jpg</file>
+        <file>picture/bc1ec22c5ecf1333da47dc7107886f12.jpg</file>
+    </qresource>
+</RCC>
